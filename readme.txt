@@ -1,5 +1,5 @@
-=== WooCommerce Delivery Slots by Iconic [Custom Shipping Methods for WooCommerce] ===
-Contributors: iconicwp
+=== WooCommerce Delivery Slots by Kadence [Custom Shipping Methods for WooCommerce] ===
+Contributors: kadence
 Requires at least: 4.5
 Tested up to: 5.6
 Stable tag: 0.1.0
